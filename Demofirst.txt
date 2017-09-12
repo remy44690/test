@@ -5,6 +5,6 @@
 	<body>
 		<h1>ceci est le premier fichier</h1>
 		<h2>deuxieme ligne ajouté dans demo</h2>
-		<h2>ligne mergée dans la branche projetA</h2>
+		<h2>ligne mergée dans la branche projetA avec correctif d'ano</h2>
 	</body>
 </html>
